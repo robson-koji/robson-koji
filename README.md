@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 
 I merged some projects that were spread around my other accounts on GitHub and GitLab to make life easier. Even if my main Python production is hosted inside companies' private repos, you can have an overview of my job. 
 
