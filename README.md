@@ -1,6 +1,6 @@
 ## Hi there
 
-I merged some projects that were spread around my other accounts on GitHub and GitLab to make life easier. However my main Python production is hosted in companies private repos, but you can have an overview of my job. 
+I merged some projects that were spread around my other accounts on GitHub and GitLab to make life easier. Even if my main Python production is hosted inside companies' private repos, you can have an overview of my job. 
 
   * Python / Django
   * Search engine Solr / Elasticsearch
