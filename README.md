@@ -5,11 +5,13 @@ I merged some projects that were spread around my other accounts on GitHub and G
   * Python / Django
   * Search engine Solr/Elasticsearch
   * Data visualization d3js / Matplotlib  
-  * Test driven development
-  * Systems architecture
-  * Machine learning
-
-
+  * Devops / Infrastructure 
+  * Test driven development / Systems architecture
+  * Problem solver / Solution oriented  
+  * Split large complex goals into manageable pieces
+  
+  
+  
 
 <!--
 **robson-koji/robson-koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
