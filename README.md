@@ -3,13 +3,8 @@
 This is my main repository. Here I merged some projects that were spread around my other accounts on GitHub and GitLab, to make life easier. Even if my main Python production is hosted inside companies' private repos, you can have an overview of my job. 
 
   * Python / Django
-  * Search engine Solr / Elasticsearch
-  * Data visualization d3js / Matplotlib  
   * Devops / Infrastructure 
-  * Systems architecture / Test driven development
-  * Problem solver / Solution oriented  
-  * Split large complex goals into manageable pieces
-  
+  * Systems architecture / Test driven development 
   
   
 
