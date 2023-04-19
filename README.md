@@ -6,10 +6,12 @@ This is my main repository. Here I merged some projects that were spread around 
   * Devops / Infrastructure 
   * Systems architecture / Test driven development 
   
-  
-## Gists
-
-<script src="https://gist.github.com/robson-koji/d67fe4974387db03bd613c8b3ef4ef76.js"></script>
 
 
-<script src="https://gist.github.com/robson-koji/faf6e00458b4e58a6cfafabd5737e978.js"></script>
+## All in here GitHub
+### Gists
+https://gist.github.com/robson-koji/faf6e00458b4e58a6cfafabd5737e978
+
+
+### Jupyter Notebooks
+https://github.com/robson-koji/jupyter-notebooks
